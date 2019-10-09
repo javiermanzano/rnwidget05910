@@ -1,0 +1,3 @@
+rootProject.name = 'rnwidget05910'
+
+include ':app'
